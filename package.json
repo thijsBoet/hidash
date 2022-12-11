@@ -1,0 +1,30 @@
+{
+  "name": "hidash",
+  "version": "1.0.0",
+  "description": "small testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "start": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijsBoet/hidash.git"
+  },
+  "keywords": [
+    "testing",
+    "framework",
+    "javascript",
+    "testing",
+    "node"
+  ],
+  "author": "matthijs boet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thijsBoet/hidash/issues"
+  },
+  "homepage": "https://github.com/thijsBoet/hidash#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
